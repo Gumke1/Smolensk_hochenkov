@@ -17,3 +17,10 @@ if __name__ == '__main__':
 print("aaaaaaaaaaaaaaaa")
 for i in range(1):
     pass
+print("swqsqws")
+pass
+print("swqsqws")
+pass
+print("swqsqws")
+pass
+print(1)
