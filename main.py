@@ -25,3 +25,4 @@ print("swqsqws")
 pass
 print(1)
 print("WwWww")
+print()
